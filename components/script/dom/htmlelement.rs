@@ -251,6 +251,7 @@ pub enum HTMLElementTypeId {
     HTMLCanvasElement,
     HTMLDataElement,
     HTMLDataListElement,
+    HTMLDialogElement,
     HTMLDirectoryElement,
     HTMLDListElement,
     HTMLDivElement,
